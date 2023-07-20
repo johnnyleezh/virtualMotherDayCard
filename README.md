@@ -1,2 +1,2 @@
 # virtualMotherDayCard
-[https://johnnyleezh.github.io/virtualMotherDayCard/]Click me
+Link: https://johnnyleezh.github.io/virtualMotherDayCard/
